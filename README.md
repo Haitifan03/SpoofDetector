@@ -1,7 +1,6 @@
 # SpoofDetector
 
-###Team Members:
-<ul>
+### Team Members: <ul>
   <li>Leah Casey</li>
   <li>Samuel Gross</li>
   <li>Logan Parker</li>
