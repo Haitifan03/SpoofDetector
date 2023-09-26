@@ -1,14 +1,14 @@
 ### Meeting Time
 09/26/2023
 Began: 4:30 PM
-Ended: 5:23 PM
+Ended: 5:14 PM
 Location: Zoom Call
 
 ### Meeting time amount 
-52 minutes 34 seconds
+43 minutes 34 seconds
 
-### Meeting time recorder 
-- Logan Parker
+### Meeting time recorder
+Logan
 
 ### Meeting Overview
 - Talked about what Pierce Aerospace does, how they have worked with the government to create an FAA standard for UAWs, and how UAWs are identified in airspace.
